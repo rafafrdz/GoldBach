@@ -1,4 +1,4 @@
-![Captura de pantalla de 2018-09-19 19-06-34](/home/rafa/Imágenes/Captura de pantalla de 2018-09-19 19-06-34.png)
+![](https://raw.githubusercontent.com/rafafrdz/GoldBach/master/goldbach.png)
 
 ```scala
 object Goldbach extends App {
