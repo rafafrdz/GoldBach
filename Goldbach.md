@@ -1,4 +1,4 @@
-![goldbach](https://raw.githubusercontent.com/rafafrdz/GoldBach/master/goldbach.png)
+![](https://raw.githubusercontent.com/rafafrdz/GoldBach/master/goldbach.png)
 
 ```scala
 object Goldbach extends App {
